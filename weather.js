@@ -1,0 +1,1 @@
+export function getweater(lat,lon,timezone){}
